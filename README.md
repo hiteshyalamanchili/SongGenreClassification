@@ -34,4 +34,5 @@ The various models that have been developed, trained, and tested extensively are
 
 ## Acknowledgements
 * Professor John Canny, University of California, Berkeley
+* Data source for research obtained from https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/data
 * Some inspiration and implementation from https://github.com/Kyubyong/transformer/blob/master/modules.py
